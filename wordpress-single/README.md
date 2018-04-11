@@ -1,4 +1,4 @@
-# WordPress in A single docker image
+# WordPress in a single docker image
 This was my first foray into docker. Technically docker images are not supposed to have multiple running processes, however, my intention was to see how well docker works in a limited resource system and if it could function as a sudo-replacement for vagrant. Ultimately its possible to replace vagrant, but with a few important caveats. 
 
 + Docker Caveats:
